@@ -1,5 +1,5 @@
+# EX-1    Assembling-the-System
 ## AIM:
-
 To assemble the components of the computer.
 
 ## STEPS:
